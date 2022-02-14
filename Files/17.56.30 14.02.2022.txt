@@ -1,0 +1,170 @@
+﻿14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Info: Start method: CallInfo
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
+14.02.2022 17:56:30: Warning: Action got this custom Exception: Skipped logic in method
+14.02.2022 17:56:30: Error: Action failed by reason: System.Exception: I broke logic
+   at Module2HW5.Models.Actions.CallError() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Models\Actions.cs:line 29
+   at Module2HW5.Starter.Run() in C:\Users\Maksym\Desktop\курсы\ДЗ\ДЗ№9\Module2HW5\Starter.cs:line 36
